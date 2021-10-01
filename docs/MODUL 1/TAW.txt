@@ -1,0 +1,5 @@
+Tes Awal
+1.Apakah yaang dimaksud dengan entitas dan atribut ?
+2.Sebutkan dan jelaskan jenis atribut !
+3.Apa perbedaan entitas kuat dan entitaas lemah ?
+4.Gambarkan 5 entitas yang minimal memiliki 5 atribut !
